@@ -23,8 +23,10 @@ A curious Bioengineering Student with a keen interest for microbiology and immun
 - Efficient Laboratory working skills
 
 ### Projects
-- [Project 1](https://github.com/Arnav1771/Project-Dogs-Vs-Cats): A Machine Learning Project where the system will tell if the animal is Dog or a Cat.
-- [Project 2](https://github.com/Arnav1771/youtube_Video_Downloader): A simple code to download video files through YouTube Links
+- [Project 1](https://github.com/Vikas-2207/HSP-IN-CANCER-TREATMENT) :This report explores the role of heat shock proteins (HSPs) in cancer treatment
+- [Project 2](https://github.com/Vikas-2207/Haptic-toys) : A method of customising soft toys with children's drawings, favourite objects or
+superheroes, different materials, fillers, sizes and sensors.
+
 - [Project 3](https://github.com/Arnav1771/Speech_to_-Text_Project): A Simple Project of Speech To Text using HTML and some APIs
 
 ### Journals
@@ -44,7 +46,7 @@ A curious Bioengineering Student with a keen interest for microbiology and immun
 
 ### Currently Listening To
 - Artist: The Weeknd, Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine ETC.
-- [Spotify Playlist #01](https://open.spotify.com/playlist/6F9TDm1Uw7gIOycjEnFihj?si=8ad7c8f7b9fd4563&nd=1)
+- [Spotify Playlist #01](https://open.spotify.com/playlist/0j5mS51qKyRvc6wPgcjHRP?si=e875876064914937)
 - [Spotify Playlist #02](https://open.spotify.com/playlist/63m6YlgxtdYzo8kHY8xshS?si=6903cabafbb3466c&nd=1)
 - [Spotify Playlist #03](https://open.spotify.com/playlist/2q7xfd5yH97eTmWkPbCdFa?si=8de9a41cdac94c50&nd=1)
 - [Spotify Playlist #04](https://open.spotify.com/playlist/1AQLzmkNrvJVAwec9iZSih?si=f982eec371c046df&nd=1)

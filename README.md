@@ -16,7 +16,6 @@ A curious Bioengineering Student with a keen interest for microbiology and immun
 
 ### Education
 - B.Tech in Bioengineering, VIT Bhopal University (2021-2025)
-- Relevant Coursework: Algorithms and Data Structures, Object-Oriented Programming, Database Systems, Operating Systems, Computer Networks.
 
 ### Skills
 - Programming Languages: Python,  Java
@@ -27,22 +26,12 @@ A curious Bioengineering Student with a keen interest for microbiology and immun
 - [Project 2](https://github.com/Vikas-2207/Haptic-toys) : A method of customising soft toys with children's drawings, favourite objects or
 superheroes, different materials, fillers, sizes and sensors.
 
-- [Project 3](https://github.com/Arnav1771/Speech_to_-Text_Project): A Simple Project of Speech To Text using HTML and some APIs
-
-### Journals
-
-- https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/
-
-
 
 ### Hobbies
 - Playing Badminton , Football , Cricket
 - Reading fiction books (manga)
 - Trekking and Cruising
 - Playing video games
-
-### Anime
-- [ANIME] : https://github.com/Arnav1771/Anime_I-_am_watching_XDD
 
 ### Currently Listening To
 - Artist: The Weeknd, Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine ETC.

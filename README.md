@@ -8,7 +8,7 @@
 
 ### Contact Information
 - Email: iamvikas2001@gmail.com
-- LinkedIn: NOT RIGHT NOW!!
+- LinkedIn: NOT YET !!
 - GitHub: [Vikas-2207](https://github.com/Vikas-2207)
 
 ### Summary
@@ -20,7 +20,7 @@ A curious Bioengineering Student with a keen interest for microbiology and immun
 
 ### Skills
 - Programming Languages: Python,  Java
-- Efficient Biolab working skills
+- Efficient Laboratory working skills
 
 ### Projects
 - [Project 1](https://github.com/Arnav1771/Project-Dogs-Vs-Cats): A Machine Learning Project where the system will tell if the animal is Dog or a Cat.

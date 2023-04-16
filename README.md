@@ -18,7 +18,7 @@ A curious Bioengineering Student with a keen interest for microbiology and immun
 - B.Tech in Bioengineering, VIT Bhopal University (2021-2025)
 
 ### Skills
-- Programming Languages: Python,  Java
+- Programming Languages: Python,  Java , HTML
 - Efficient Laboratory working skills
 
 ### Projects

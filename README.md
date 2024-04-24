@@ -8,7 +8,7 @@
 
 ### Contact Information
 - Email: iamvikas2001@gmail.com
-- LinkedIn: NOT YET !!
+- LinkedIn: (https://www.linkedin.com/in/vikas-singh-1b1051284/)
 - GitHub: [Vikas-2207](https://github.com/Vikas-2207)
 
 ### Summary

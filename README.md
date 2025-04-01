@@ -40,3 +40,7 @@ superheroes, different materials, fillers, sizes and sensors.
 - [Spotify Playlist #03](https://open.spotify.com/playlist/2q7xfd5yH97eTmWkPbCdFa?si=8de9a41cdac94c50&nd=1)
 - [Spotify Playlist #04](https://open.spotify.com/playlist/1AQLzmkNrvJVAwec9iZSih?si=f982eec371c046df&nd=1)
 - [Spotify Playlist #05](https://open.spotify.com/playlist/6SFsPoKuaT8Jsr2dgs6tUZ?si=f9600fa7097f421c&nd=1)
+
+ ### RESUME
+  [Get Resume](https://drive.google.com/file/d/1v1FmNgQ4YDlFonHZ8ae3j83KXry8VnHx/view?usp=sharing)
+
